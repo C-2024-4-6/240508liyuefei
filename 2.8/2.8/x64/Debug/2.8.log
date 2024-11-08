@@ -1,0 +1,3 @@
+﻿  2.8.cpp
+E:\c++\2.8\2.8\2.8.cpp(9,9): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  2.8.vcxproj -> E:\c++\2.8\x64\Debug\2.8.exe
