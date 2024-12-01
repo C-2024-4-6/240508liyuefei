@@ -1,0 +1,4 @@
+﻿  3.2.cpp
+F:\c++\3.2\3.2\3.2.cpp(8,14): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+F:\c++\3.2\3.2\3.2.cpp(17,14): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  3.2.vcxproj -> F:\c++\3.2\x64\Debug\3.2.exe

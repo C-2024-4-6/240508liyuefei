@@ -1,0 +1,6 @@
+﻿  3.3.cpp
+  mytriangle.cpp
+  mytriangle.h
+  正在生成代码...
+x64\Debug\mytriangle.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+  3.3.vcxproj -> F:\c++\实验三四\3.3\x64\Debug\3.3.exe
